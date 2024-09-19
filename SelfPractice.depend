@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1726608181 source:d:\programming practice\basics\selfpractice\evenodd.cpp
+	<iostream>
+
+1726609593 source:d:\programming practice\basics\selfpractice\greatestofthreenumbers.cpp
+	<iostream>
+
+1726608949 source:d:\programming practice\basics\selfpractice\greatestoftwonumbers.cpp
+	<iostream>
+
+1726609216 source:d:\programming practice\basics\selfpractice\leapyear.cpp
+	<iostream>
+
+1726735147 source:d:\programming practice\basics\selfpractice\main.cpp
+	<iostream>
+
+1726736357 source:d:\programming practice\basics\selfpractice\ternaryoperator.cpp
+	<iostream>
+
