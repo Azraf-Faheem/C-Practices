@@ -22,7 +22,7 @@ int main()
          }
     case 2:
         {
-            float kilo;
+            float kilo;//kilometer is defined as kilo
     cout<<"Enter value in Kilometers: \n";
     cin>>kilo;
     float Miles=(kilo/0.621);
